@@ -1,0 +1,10 @@
+[
+  { "Name": "John", "Age": 20, "Weight": 80 },
+  { "Name": "Mary", "Age": 30, "Weight": 60 },
+  { "Name": "Peter", "Age": 40, "Weight": 70 },
+  { "Name": "David", "Age": 50, "Weight": 90 },
+  { "Name": "Daniel", "Age": 21, "Weight": 60 },
+  { "Name": "Barbara", "Age": 31, "Weight": 53 },
+  { "Name": "Leon", "Age": 41, "Weight": 70 },
+  { "Name": "Francesca", "Age": 51, "Weight": 90 }
+]
